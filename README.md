@@ -118,11 +118,6 @@ The available dataset does not contain several qualitative customer-experience v
 
 The analysis identifies patterns and statistical associations but does not establish causal relationships.
 
-## Original Report
-
-The complete market and analytical report is available in the `report/` folder.
-
-> Note: The original R source code used in the project is no longer available. The statistical methodology, model output, and findings have been preserved in the original project report.
 
 ## Author
 
